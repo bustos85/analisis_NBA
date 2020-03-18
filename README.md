@@ -6,3 +6,4 @@ Análisis de datos de la NBA
 - NBA stats 2019: Visualización de estadísticas por equipo según la media de las estadísticas de sus jugadores.
 Ejemplo de modelo de predicción que en base a las estadísticas por equipo de las últimas 20 temporadas, intenta predecir las victorias de cada equipo según las estadísticas de la temporada actual.
 - NBA clustering player: Ejemplo de clustering de los jugadores de la historia de la NBA según la media de las estadísticas de su carrera.
+- NBA visualizaciones lanzamientos estadísticas: ejemplos de distintas visualizaciones de datos relativos a los lanzamientos a canasta de un jugador, y también de las estadísticas de los jugadores con la librería seaborn.
